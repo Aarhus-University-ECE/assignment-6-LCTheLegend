@@ -24,7 +24,7 @@ void add(node *head, int x){
 int size(node *l){
     // Excercise 3b)
     // Add your code here... 
-
+  //rrrr
     return -1;
 }
 
